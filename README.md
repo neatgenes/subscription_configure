@@ -22,7 +22,7 @@ Disable repository subscriptions
 Enable repository subscriptions
 - Here's where the repos.txt file comes into play. This will run a for loop to enable all your repos again. These will be the repos you were subscribed to initially.
 
-Check you enabled repository subscriptions
+Check your enabled repository subscriptions
 - This will run subscription-manager repos --list-enabled and provide you with the output
 
 Check your "repos.txt" file content
