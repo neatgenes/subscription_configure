@@ -1,5 +1,7 @@
 IMORTANT NOTE: I wouldn't use this just yet. I'll give a fully working version soon. It's nearly done though!
 
+UPDATE: I've updated this to where the file location and directory needed for the app to run is now in a variable so it's easier for users to change if needed. I've also fixed a bug which was a small typo on a command. So far it's working as intended. 
+
 This tool is still in the works, but it is being designed and tested for RedHat 8 and 9 systems. I imagine it would work on previous versions but haven't looked into that just yet.
 I created this primarily because I've been creating local repositories for my RHCE studies in Ansible automation and I found it's easier just to disable my repository subscriptions
 rather than going in and disabling RedHat from auto-generating it's repo config and the file it generates. It's pretty useful if you disable and re-enable repo subscriptions quite a bit.
